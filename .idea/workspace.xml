@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09805fa0-790a-454d-954a-3569f15c4f5d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/main/java/com/lenibonje/challenges/TwoSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/main/java/com/lenibonje/challenges/TwoSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/main/java/com/lenibonje/challenges/TwoSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/main/java/com/lenibonje/challenges/1.TwoSum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "azul-17"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-17&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.TwoSumKt">
+}</component>
+  <component name="RunManager" selected="Kotlin._2_BuySellStockKt">
     <configuration name="MyArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lenibonje.MyArrayKt" />
       <module name="Arrays" />
@@ -50,8 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lenibonje.challenges.TwoSumKt" />
+    <configuration name="_1_TwoSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenibonje.challenges._1_TwoSumKt" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_BuySellStockKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lenibonje.challenges._2_BuySellStockKt" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,7 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TwoSumKt" />
+        <item itemvalue="Kotlin._2_BuySellStockKt" />
+        <item itemvalue="Kotlin._1_TwoSumKt" />
         <item itemvalue="Kotlin.MyArrayKt" />
       </list>
     </recent_temporary>
